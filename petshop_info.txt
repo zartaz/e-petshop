@@ -6,8 +6,8 @@ db petshop
 
 TODO
 perase proionta dynamika+ανεβασμα με φωτο
-kane links me .htaccess filika
-mathe gia user login
+kane links me .htaccess filika permalinks
+cookies session 
 
 Εργασια php συμμετειχαν με αλφαβητικη σειρα οι εξης:
 Ζαρταλουδης Κωνσταντινος
