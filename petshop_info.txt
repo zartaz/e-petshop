@@ -1,0 +1,16 @@
+password: 6p8Gl8PYKOwK8f4W
+user: lefkoula
+localhost
+db petshop
+
+
+TODO
+perase proionta dynamika+ανεβασμα με φωτο
+kane links me .htaccess filika
+mathe gia user login
+
+Εργασια php συμμετειχαν με αλφαβητικη σειρα οι εξης:
+Ζαρταλουδης Κωνσταντινος
+Ισκιουπης Αθανασιος
+Λευκη Ελευθεριου
+Πετρος Καρακατσανης

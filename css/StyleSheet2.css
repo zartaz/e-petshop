@@ -1,0 +1,264 @@
+﻿
+    #home {
+    text-decoration: none;
+    color: dimgray;
+    font-size: 40px;
+    margin-left: 20px;
+    }
+
+    #home:hover {
+        color: darkorange;
+    }
+
+    h1 {
+    color: dimgray;
+    }
+
+    #offers {
+    color: darkorange;
+    font-size:21px;
+    }
+
+
+#productlist {
+    background-color:white;
+}
+
+
+#path {
+    color: darkorange;
+}
+
+#path a{
+    text-decoration:none;
+    color:dimgray;
+    font-weight:bold;
+}
+
+    #path a:hover {
+        text-decoration: none;
+        color: darkorange;
+        font-weight: bold;
+    }
+
+.boxes{
+    height:270px;
+}
+
+#doglist a {
+    text-decoration: none;
+    color: dimgray;
+}
+
+    #doglist a:hover {
+        color: darkorange;
+    }
+
+#doglist li {
+    border-bottom:solid 1px;
+    border-bottom-color:dimgray;
+    padding: 10px;
+}
+
+
+#keimeno {
+    color: dimgray;
+}
+
+    #keimeno a {
+        text-decoration: none;
+        color: dimgray;
+    }
+
+    #keimeno a:hover {
+    color: darkorange;
+   }
+
+    .product-title {
+    background-color: #fdb57e;
+    color: white;
+    font-size: 17px;
+    padding: 10px;
+    margin: 0px;
+    }
+
+    .lists{
+    text-decoration:none;
+    color:dimgray;
+    }
+
+    .lists:hover {
+        text-decoration: none;
+        color: darkorange;
+    }
+
+    p .lists {
+    color: darkorange;
+    font-weight: bold;
+    opacity: 0.8;
+    }
+
+    p .lists:hover{
+        opacity:1;
+    }
+
+#allproducts{
+    margin-top:112px;
+}
+
+#sindesi{
+    margin-top:50px;
+}
+
+    #sindesi a {
+        color: darkorange;
+    }
+
+ .form-item1{
+    float:right;
+    margin-top:3px;
+}
+
+.form_title {
+    border-bottom: solid 1px;
+    border-bottom-color: lightgray;
+    margin-top:50px;
+    font-size:23px;
+}
+
+#privacy{
+    float:right;
+    margin-top:30px;
+}
+
+#pp a{
+    text-decoration: none;
+    color: darkorange;
+}
+
+#continue {
+    text-decoration: none;
+    color: white;
+    border: solid 1px #fdb57e;
+    background-color: #fdb57e;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+    #continue:hover {
+        border-color: #3f3f4d;
+        background-color: #3f3f4d;
+    }
+
+#privacy input:checked {
+    color: darkorange;
+}
+
+#button{
+    margin:30px 0px;
+    padding-left:20px;
+}
+
+#register,#log {
+    border-top: solid 2px darkorange;
+   
+}
+
+.cust{
+    font-size:30px;
+    font-weight:normal;
+}
+
+.reg {
+    font-style: italic;
+}
+
+#forgot {
+    margin-left: 30px;
+    padding: 10px;
+    text-decoration: none;
+    color: #fdb57e;
+    font-weight: bold;
+}
+
+    #forgot:hover {
+        margin-left: 30px;
+        padding: 10px;
+        text-decoration: none;
+        color: #3f3f4d;
+        font-weight: bold;
+    }
+
+
+@media screen and (max-width: 992px){
+
+    #text1 {
+        font-size: 20px;
+    }
+
+    #text4 {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    #text5 {
+        margin-bottom: 10px;
+    }
+
+    .cust, .reg{
+        text-align:center;
+    }
+
+    .form-item1{
+        float:left;
+    }
+
+    h1{
+        font-size:30px;
+    }
+
+    .perigrafi{
+        text-align:center;
+    }
+
+    .titlos {
+        margin-top: 15px;
+        font-size: 21px;
+    }
+
+
+}
+
+@media screen and (max-width: 600px) {
+
+    #cat {
+        margin: auto;
+    }
+
+    #spiti {
+        background-color: dimgray;
+    }
+
+    h1 {
+        color: darkorange;
+        font-size: 25px;
+    }
+
+    #quantity a {
+        font-size: 15px;
+    }
+
+
+    #quantity input {
+        width: 50px;
+    }
+
+    td{
+        width:50px;
+    }
+
+    
+}
+
+
+
